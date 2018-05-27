@@ -1,10 +1,3 @@
-//
-//  hogehogeTests.swift
-//  hogehogeTests
-//
-//  Created by 末吉大介 on 2018/05/23.
-//  Copyright © 2018年 D.sue. All rights reserved.
-//
 
 import XCTest
 @testable import hogehoge
